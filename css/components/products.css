@@ -1,0 +1,8 @@
+.products li{
+	font-family: 'Great Vibes', serif;
+	font-size: 32px;
+	color:  #001845;
+	text-shadow: 10px 5px 30px rgba(0, 0, 0, 1.5)
+	font-style: normal;
+	font-weight: bold;
+}

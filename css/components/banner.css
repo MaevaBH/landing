@@ -1,0 +1,26 @@
+.banner{
+	background-image:  linear-gradient(-225deg, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.4) 70%), url(../../images/bracelet.jpg);     
+	background-size: cover;     
+	background-position: center;
+	height: 300px;
+	align-items: center;
+	border-radius: 4px;	
+	text-align: center;
+}
+.banner h1 {
+  color: #fbcbc9;
+  font-size: 70px;
+  margin: 30px;
+  font-family: 'Great Vibes';
+  font-style: normal;
+   
+}
+.banner h2 {
+  color: #c6d7eb;
+  font-family: 'Charm';
+  font-style: italic;
+  font-size: 30px;
+  margin: 30px;
+  font-weight: lighter;
+	opacity: 0.9;
+}

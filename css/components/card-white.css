@@ -1,0 +1,75 @@
+.card-white{
+	background: #e6dedd;
+	padding: 10px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.7);
+	border-radius: 4px;
+	margin: 20px;
+	display: flex;
+	padding: 20px;
+	height: 260px;
+}
+.card-white img{
+	width: 200px;
+	height: 200px;
+	padding-top: 60px;
+	margin-left: -90px;
+	border-radius: 45%;
+}
+
+.card-white ul{
+	padding-top: 45px;
+
+}	
+.card-white h2{
+	font-family: 'Felipa', serif;
+    font-style: normal;
+    color: #322514;
+    font-size: 40px;
+    font-weight: bold;
+    text-shadow: 0px 10px 30px rgba(0, 0, 0, 1);
+
+}
+
+
+#card2{
+	color: #c6d7eb;
+
+}
+#card2 h2{
+	color: #fbcbc9;
+}
+#card2 li{
+	color: #fbcbc9;
+}
+
+#card4 h2{
+	color: #fbcbc9;
+
+}
+.cards h1{
+	text-align: center;
+	font-family: 'Felipa', cursive;
+    font-style: normal;
+    color: #322514;
+    font-size: 50px;
+    text-shadow:  2px 2px 4px #5c2a9d;
+}
+
+
+
+#card1{
+	background-color: #fbcbc9;
+	background-size: cover;
+}
+#card2{
+	background-image: url(../../images/tissu1.jpeg);
+	background-size: cover;
+}
+#card3{
+	background-color: #fbcbc9;
+	background-size: cover;
+}#card4{
+	background-image: url(../../images/tissu4.jpeg);
+	background-size: cover;
+	
+}
